@@ -1,0 +1,22 @@
+body{
+    font-family: $font;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    background-color: #1F2023;
+    color: $light;
+  }
+  a{
+    text-decoration: none;
+  }
+  h1,h2{
+    font-weight: 600;
+    margin: 0;
+  }
+  .container{
+    width: 100%;
+    max-width: 1830px;
+    margin: 0 auto;
+    padding:0 15px;
+    box-sizing: border-box;
+  }
